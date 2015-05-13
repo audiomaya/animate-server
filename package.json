@@ -1,0 +1,19 @@
+{
+  "name": "animate-server",
+  "version": "1.0.0",
+  "description": "Este es un chat en tiempo real con video y gifs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audiomaya/animate-server.git"
+  },
+  "author": "Cesar Rodriguez <audiomaya@hotmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/audiomaya/animate-server/issues"
+  },
+  "homepage": "https://github.com/audiomaya/animate-server#readme"
+}
